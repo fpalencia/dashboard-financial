@@ -13,8 +13,8 @@ const useInstrumentList = () => {
     const constituents: Constituent[] = [...chartStore.$state.constituents]
     if (sortColumn.value) {
       constituents.sort((a, b) => {
-        let aValue = a[sortColumn.value]
-        let bValue = b[sortColumn.value]
+        let aValue = a[sortColumn.value as keyof Constituent]
+        let bValue = b[sortColumn.value as keyof Constituent]
         
         if (['lastPrice', 'accumulatedVolumeMoney', 'pctDay', 'pct30D', 'pct1Y', 'pctCY'].includes(sortColumn.value)) {
           aValue = Number(aValue)

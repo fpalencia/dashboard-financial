@@ -1,5 +1,44 @@
-# Vue 3 + TypeScript + Vite
+# Desafio Frontend Dashboard Financial
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este proyecto consta de un frontend desarrollado con Vue 3
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 🚀 Comenzando
+
+1. **Clonar el repositorio:**
+    ```sh
+    git clone https://github.com/tu-usuario/dashboard-financial.git
+    cd dashboard-financial
+    ```
+
+## Frontend
+
+Este proyecto utiliza **Vuejs** con **TypeScript** y **Vite** para crear una aplicación frontend presentación de graficos.
+
+### 💻 Pasos de Instalación Frontend
+
+1. **Instalar las dependencias:**
+    ```sh
+    npm install
+    ```
+
+2. **Correr el proyecto en modo desarrollo:**
+    ```sh
+    npm run dev
+    ```
+
+3. **Ejecutar las pruebas unitarias:**
+    ```sh
+    npm run test
+    ```
+
+### 📚 Librerías Frontend
+
+- **tailwindcss**: Para estilos CSS utilitarios.
+- **shadcn-vue**: Libreria de estilos y componentes.
+- **lucide-icons**: Para utilizar íconos en los componentes.
+- **chartjs**: Para crear graficos.
+- **vitest**: Para pruebas unitarias.
+
+## 🛠️ Stack Tecnológico
+
+- Frontend: Vuejs con TypeScript
