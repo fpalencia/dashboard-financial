@@ -12,7 +12,7 @@ Este proyecto consta de un frontend desarrollado con Vue 3.
 
 ## Frontend
 
-Este proyecto utiliza **Vuejs 3** con **TypeScript** y **Vite** para crear una aplicación frontend presentación de graficos de la bolsa de valores chilena.
+Este proyecto utiliza **Vuejs 3** con **TypeScript** y **Vite** para crear una aplicación frontend presentación de graficos de la bolsa de valores chilena. A continuación, se detallan los pasos para la instalación y ejecución del proyecto, así como las librerías y herramientas utilizadas.
 
 ### 💻 Pasos de Instalación Frontend
 
