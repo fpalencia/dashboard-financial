@@ -1,6 +1,6 @@
 # Desafio Frontend Dashboard Financial
 
-Este proyecto consta de un frontend desarrollado con Vue 3
+Este proyecto consta de un frontend desarrollado con Vue 3.
 
 ## 🚀 Comenzando
 
@@ -12,7 +12,7 @@ Este proyecto consta de un frontend desarrollado con Vue 3
 
 ## Frontend
 
-Este proyecto utiliza **Vuejs** con **TypeScript** y **Vite** para crear una aplicación frontend presentación de graficos.
+Este proyecto utiliza **Vuejs 3** con **TypeScript** y **Vite** para crear una aplicación frontend presentación de graficos de la bolsa de valores chilena.
 
 ### 💻 Pasos de Instalación Frontend
 
