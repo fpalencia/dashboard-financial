@@ -38,6 +38,7 @@ Este proyecto utiliza **Vuejs 3** con **TypeScript** y **Vite** para crear una a
 - **lucide-icons**: Para utilizar íconos en los componentes.
 - **chartjs**: Para crear graficos.
 - **vitest**: Para pruebas unitarias.
+- **pinia**: Manejo del store.
 
 ## 🛠️ Stack Tecnológico
 
